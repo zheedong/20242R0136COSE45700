@@ -31,11 +31,7 @@ public class Koopa : MonoBehaviour
             }
             else
             {
-                if (player.starpower) {
-                    Hit();
-                } else {
-                    player.Hit();
-                }
+                player.Hit();
             }
         }
         else if (!shelled && other.gameObject.layer == LayerMask.NameToLayer("Shell"))
