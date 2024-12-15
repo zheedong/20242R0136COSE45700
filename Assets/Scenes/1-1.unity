@@ -122,6 +122,87 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &12758778
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1606739507}
+    m_Modifications:
+    - target: {fileID: 927797534296339344, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 927797534296339344, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_SpriteTilingProperty.drawMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 927797534296339344, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 89.15048
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -13.021351
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.21752816
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2709380666744651047, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_Name
+      value: MysteryBlock (11-2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3143768209113653713, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3143768209113653713, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_DrawMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
 --- !u!4 &16484539 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4046083522457156204, guid: ab89122a201ca4ccc99b3fbb60ff3bf9, type: 3}
@@ -1647,6 +1728,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2098,6 +2183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2694,6 +2783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3304,6 +3397,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3313,6 +3410,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
   m_PrefabInstance: {fileID: 711884572}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &715570625 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+  m_PrefabInstance: {fileID: 12758778}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &728054359
 PrefabInstance:
@@ -3324,15 +3426,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 927797534296339344, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
       propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 927797534296339344, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_SpriteTilingProperty.drawMode
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 927797534296339344, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
       propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 88.65048
+      value: 88.15048
       objectReference: {fileID: 0}
     - target: {fileID: 2064338603469378785, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3376,8 +3482,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3143768209113653713, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
       propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3143768209113653713, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_DrawMode
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3500,6 +3614,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 8944793780940186476, guid: 6e0bdf831b29b4b31a3e16c6348a4551, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3856,6 +3974,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5357815904633163831, guid: 76ad2fa7a07394db7b3533db405f1635, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 8942627525441664494, guid: 79c4a49f43ccc42a796eeb35ed5cee97, type: 3}
+    - target: {fileID: 5357815904633163831, guid: 76ad2fa7a07394db7b3533db405f1635, type: 3}
+      propertyPath: maxHits
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7123067218245754658, guid: 76ad2fa7a07394db7b3533db405f1635, type: 3}
       propertyPath: m_LocalPosition.x
       value: 60.15048
@@ -4018,8 +4144,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2709380666744651047, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
       propertyPath: m_Name
-      value: MysteryBlock (4)
+      value: HiddenBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 3143768209113653713, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 239812249729783785, guid: 9f1df77a4bc224d518714e3b6ffb1fb6, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4330,6 +4464,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 8944793780940186476, guid: 6e0bdf831b29b4b31a3e16c6348a4551, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5078,6 +5216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5883,6 +6025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 8944793780940186476, guid: 6e0bdf831b29b4b31a3e16c6348a4551, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6448,6 +6594,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5357815904633163831, guid: 76ad2fa7a07394db7b3533db405f1635, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
+    - target: {fileID: 5357815904633163831, guid: 76ad2fa7a07394db7b3533db405f1635, type: 3}
+      propertyPath: maxHits
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7123067218245754658, guid: 76ad2fa7a07394db7b3533db405f1635, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53.15048
@@ -6612,6 +6766,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7081,6 +7239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7379,6 +7541,7 @@ Transform:
   - {fileID: 766739808}
   - {fileID: 579183109}
   - {fileID: 728054360}
+  - {fileID: 715570625}
   - {fileID: 360711862}
   - {fileID: 884938231}
   m_Father: {fileID: 1875285005}
@@ -8067,6 +8230,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteryBlock (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7928455027725049700, guid: e7aeba9c8f78b4c179978833eb2e333f, type: 3}
+      propertyPath: item
+      value: 
+      objectReference: {fileID: 1903354766133754752, guid: abf594c1a429d458ebdfb590b681b793, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8895,6 +9062,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FlagPole
       objectReference: {fileID: 0}
+    - target: {fileID: 703811604068008240, guid: 3a5c00526c3d84521901dbae77a1003e, type: 3}
+      propertyPath: castle
+      value: 
+      objectReference: {fileID: 1058236117}
     - target: {fileID: 3645543320346420604, guid: 3a5c00526c3d84521901dbae77a1003e, type: 3}
       propertyPath: m_LocalPosition.y
       value: 5.25
